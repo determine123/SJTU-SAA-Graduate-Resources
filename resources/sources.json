@@ -1,0 +1,138 @@
+[
+  {
+    "category": "官方入口",
+    "title": "航院研究生课程介绍",
+    "url": "https://www.aero.sjtu.edu.cn/rcpy/yjs/kcjs",
+    "purpose": "查找学院课程介绍；动态列表可能需浏览器加载",
+    "access_and_limits": "公开入口；不代表当学期选课要求",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "航院研究生专业介绍",
+    "url": "https://www.aero.sjtu.edu.cn/rcpy/yjs/zyjs",
+    "purpose": "了解培养方向及项目介绍",
+    "access_and_limits": "公开页面",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "上海交通大学研究生院",
+    "url": "https://www.gs.sjtu.edu.cn/",
+    "purpose": "培养规章、课程教学、学位及办事信息",
+    "access_and_limits": "公开入口；部分业务需登录",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "研究生教育信息管理系统",
+    "url": "https://yjs.sjtu.edu.cn/",
+    "purpose": "从学院培养方案链接进入，核对本人培养要求",
+    "access_and_limits": "需要学校登录",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "Canvas 在线教学平台",
+    "url": "https://oc.sjtu.edu.cn/",
+    "purpose": "查看本人课程通知、课件及作业",
+    "access_and_limits": "个人课程需登录；不复制受限内容",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "上海交通大学图书馆",
+    "url": "https://www.lib.sjtu.edu.cn/",
+    "purpose": "查找数据库、图书及论文资源",
+    "access_and_limits": "官网入口；全文权限依资源而定",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "官方入口",
+    "title": "图书馆资源查找指南",
+    "url": "https://www.lib.sjtu.edu.cn/f/content/list.shtml?Lid=239",
+    "purpose": "了解资源查找途径",
+    "access_and_limits": "搜索索引已检出；具体权限以图书馆为准",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "矩阵理论",
+    "title": "SJTU 教师主页：矩阵理论课程介绍",
+    "url": "https://faculty.sjtu.edu.cn/huangzhiwei/en/skxx/628385/content/405781.htm",
+    "purpose": "课程背景及知识主题参考",
+    "access_and_limits": "搜索索引包含介绍；不代表公开课件或当前任课安排",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "计算方法",
+    "title": "MIT 18.335J Numerical Methods，2019 春",
+    "url": "https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/pages/resource-index/",
+    "purpose": "数值线性代数讲义、习题与学习资源",
+    "access_and_limits": "公开课程；与 MATH6004 教学安排不同",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "矩阵理论",
+    "title": "MIT 18.06 Linear Algebra，2010 春",
+    "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+    "purpose": "补充线性代数基础、视频和练习",
+    "access_and_limits": "本科基础补充；不等同研究生矩阵理论",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "计算机辅助设计",
+    "title": "SciPy BSpline 官方文档",
+    "url": "https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.BSpline.html",
+    "purpose": "核对 B 样条次数、节点、求值与导数接口",
+    "access_and_limits": "公开官方文档；随软件版本更新",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "叶轮机械与 CFD",
+    "title": "SU2 官方教程合集",
+    "url": "https://su2code.github.io/tutorials/home/",
+    "purpose": "非定常翼型、涡脱落、涡轮级与流固耦合算例",
+    "access_and_limits": "公开教程；本次未安装或运行算例",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "叶轮机械与 CFD",
+    "title": "NASA PyTurbo",
+    "url": "https://software.nasa.gov/software/LEW-20438-1",
+    "purpose": "叶型与叶片几何设计工具入口",
+    "access_and_limits": "NASA 标注开源；使用前查看项目许可证与依赖",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "叶轮机械与 CFD",
+    "title": "NASA TurboDesign",
+    "url": "https://software.nasa.gov/software/LEW-20578-1",
+    "purpose": "叶轮机械设计工具及说明入口",
+    "access_and_limits": "NASA 标注开源；本次未安装验证",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "通用经验",
+    "title": "SJTU-Courses",
+    "url": "https://github.com/kxxwz/SJTU-Courses",
+    "purpose": "交大通用课程资料集合",
+    "access_and_limits": "学生项目；非航院当前研究生课程全集",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "通用经验",
+    "title": "上海交通大学生存手册",
+    "url": "https://github.com/SurviveSJTU/SurviveSJTUManual",
+    "purpose": "学习、科研与校园经历参考",
+    "access_and_limits": "经验分享；注意文章背景和年份",
+    "checked_on": "2026-11-13"
+  },
+  {
+    "category": "通用经验",
+    "title": "SJTU-Application",
+    "url": "https://github.com/SurviveSJTU/SJTU-Application",
+    "purpose": "升学与申请经历参考",
+    "access_and_limits": "经验分享；非课程资料库",
+    "checked_on": "2026-11-13"
+  }
+]
