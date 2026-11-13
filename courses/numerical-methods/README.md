@@ -96,3 +96,6 @@ $$\begin{bmatrix}m&\sum x_i\\sum x_i&\sum x_i^2\end{bmatrix}
 本文整理文字采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，署名 determine123；外链原作品不适用此许可。目录内 Python 脚本采用 [MIT 许可证](LICENSE)。
 
 2026-11-13 在 Python 3.12 环境运行 `python courses/numerical-methods/verify_formulas.py`，退出码为 0：二次多项式插值、Simpson 对 0—3 次多项式的精确性及奇数分段拒绝、两点/三点 Gauss 对 0—3/0—5 次多项式的精确性、最小二乘残差正交检查通过。这些检查不覆盖本文全部公式和适用条件。
+
+
+- [浮点误差、相消与稳定表达式](arithmetic.md)，附标准库复算脚本。

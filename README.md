@@ -50,3 +50,6 @@
 
 
 - [子空间、坐标变换、正交化与 Cramer 法则学习笔记](courses/matrix-theory/foundations.md)；运行 `python courses/matrix-theory/verify_foundations.py` 复算具体例子。
+
+
+- [浮点误差、相消与稳定表达式](courses/numerical-methods/arithmetic.md)，附标准库复算脚本。
