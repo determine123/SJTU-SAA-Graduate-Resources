@@ -75,3 +75,6 @@ python verify_spectral.py
 脚本采用精确整数、有理数和根式，检查特征多项式、两个 RREF、正交性、谱分解、投影、逆矩阵及 k=0、1、2、5 的矩阵幂。运行不写文件。接口参考：[SymPy 矩阵官方文档](https://docs.sympy.org/latest/modules/matrices/matrices.html)。
 
 2026-11-13 本地执行脚本退出码为 0。结果只覆盖本例与检查项，不是对一般谱定理的程序证明。
+
+
+- [子空间、坐标变换、正交化与 Cramer 法则学习笔记](foundations.md)；运行 `python verify_foundations.py` 复算具体例子。

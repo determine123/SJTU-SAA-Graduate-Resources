@@ -47,3 +47,6 @@
 
 - [Bézier 细分、连续性与控制凸包](courses/cad/bezier/README.md)
 - [参数曲面基本形式与主曲率核对](courses/cad/surface-geometry/README.md)
+
+
+- [子空间、坐标变换、正交化与 Cramer 法则学习笔记](courses/matrix-theory/foundations.md)；运行 `python courses/matrix-theory/verify_foundations.py` 复算具体例子。
