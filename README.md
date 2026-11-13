@@ -53,3 +53,8 @@
 
 
 - [浮点误差、相消与稳定表达式](courses/numerical-methods/arithmetic.md)，附标准库复算脚本。
+
+
+## 选课与研究规划
+
+- [选课核对、工作量记录、导师面谈与课程反馈模板](guides/course-planning.md)
